@@ -1,0 +1,24 @@
+.App {
+  text-align: justify;
+  padding: 30px;
+}
+
+.brand-logo {
+  margin-left: 20px;
+}
+
+.container {
+  min-height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.dropdown-button {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.collapsible-body {
+  max-height: 500px;
+  overflow-y: auto;
+}
+

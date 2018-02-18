@@ -1,0 +1,23 @@
+{
+    "name": "london-public-transport",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0",
+        "react-materialize": "^1.1.2",
+        "react-scripts": "1.1.1"
+    },
+    "devDependencies": {
+        "eslint-plugin-flowtype": "^2.44.0",
+        "eslint-plugin-import": "^2.8.0",
+        "eslint-plugin-jsx-a11y": "^6.0.3",
+        "eslint-plugin-react": "^7.6.1"
+    }
+}
